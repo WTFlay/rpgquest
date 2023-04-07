@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "clean-forest.json",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Outdoors Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "clean-forest.json": {
+            "scale": 1.35,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 277.037037037037,
+                "y": 391.85185185185185
+            }
+        }
+    },
+    "last.imagePath": "/Users/flay/Documents/dojo/rpgquest/assets/tileset",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "Outdoors Tileset.tsx",
+        "clean-forest.json"
+    ],
+    "project": "tiled.tiled-project",
+    "recentFiles": [
+        "Outdoors Tileset.tsx",
+        "clean-forest.json"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.transparentColor": "#ffffff",
+    "tileset.useTransparentColor": true
+}
